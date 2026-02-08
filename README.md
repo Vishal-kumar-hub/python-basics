@@ -10,7 +10,7 @@ Python source code files Project folder structure as instructed
 
 📘 Project: Python Fundamentals & Mini Exercises
 
-Module: Fundamentals Project ID: Project_01 Access id: VI128CA
+Module: Fundamentals Project ID: Project_01 Access id: VT127CA
 
 Multi-Operation Calculator File Name: calculator.py Purpose To perform basic mathematical operations on two numbers entered by the user.
 
@@ -60,8 +60,15 @@ Logic Explanation: A function is defined to display a greeting message. The user
 
 Concepts Used: Variables Functions for loop while loop Input and output
 
-Terminal output screenshots:
-Screenshot 5 Screenshot 4 Screenshot 1 Screenshot 7 Screenshot 2 Screenshot 3 Screenshot 6 Screenshot 8
+Terminal output screenshots:<img width="1920" height="1080" alt="Screenshot 2026-02-08 140117" src="https://github.com/user-attachments/assets/01509c10-0347-4e7d-b5a3-86073f21e1a7" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-08 140322" src="https://github.com/user-attachments/assets/a0ae9843-b2cf-49b3-bdb1-834c7114ef26" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-08 140424" src="https://github.com/user-attachments/assets/c209af2e-8b9e-4c3d-b54e-ec7231137eac" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-08 140546" src="https://github.com/user-attachments/assets/d6e506d1-1036-462a-92af-61fc32f0b845" />
+
+
+
+
+
 
 Learning Outcome:
 After completing this project: Strong understanding of Python fundamentals Improved logical thinking and problem-solving skills Hands-on experience with real Python programs Readiness for advanced Python concepts and projects# python-basics
